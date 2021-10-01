@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDisplayName</key>
-	<string>TestApplication</string>
+	<string>SOE</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.xamarin.sample.TestApplication</string>
+	<string>com.soe.soe-app</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
